@@ -1,5 +1,1 @@
-class ApiApp {
-
-  
-
-}
+class ApiApp {}
